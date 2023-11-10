@@ -4,10 +4,10 @@
 
 <div id="badges" align="center">
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Телеграм-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/Телеграм-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://web.telegram.org/k/#ManCityLovee"/>
   </a>
   <a href="your-VK-URL">
-    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="https://vk.com/laironc"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ### :woman_technologist: Обо мне :
 
-Я Frontend/Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- Я Frontend/Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: Я начинающий программист и занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений, сайтов.
 
