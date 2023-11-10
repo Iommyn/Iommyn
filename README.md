@@ -6,4 +6,7 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="telegram Badge"/>
   </a>
+  <a href="your-vk-URL">
+    <img src="https://img.shields.io/badge/vk-yellow?style=for-the-badge&logo=vk&logoColor=white" alt="telegram Badge"/>
+  </a>
 </div>
