@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="telegram Badge"/>
   </a>
   <a href="your-VK-URL">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Вконтакте&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>
