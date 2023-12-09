@@ -23,9 +23,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-###Обо мне :
+- <h3>Обо мне : </h3>
 
-- Я Frontend/Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+-  Я Frontend/Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: Я начинающий программист и занимаюсь разработкой внешнего и внутреннего интерфейса для создания веб-приложений, сайтов.
 
@@ -36,7 +36,7 @@
 - :mailbox:Как связаться со мной: [![VK Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/laironc)
 
 
-- ###Языки которые я использую :
+- <h3>Языки которые я использую : </h3>
 
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
