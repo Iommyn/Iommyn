@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: Обо мне :
+###Обо мне :
 
 - Я Frontend/Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
@@ -36,7 +36,7 @@
 - :mailbox:Как связаться со мной: [![VK Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/laironc)
 
 
-- ### :hammer_and_wrench: Языки которые я использую :
+- ###Языки которые я использую :
 
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
