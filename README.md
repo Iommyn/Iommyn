@@ -33,7 +33,7 @@
 
 - :zap: В свободное время я занимаюсь изучением чего-то нового.
 
-- :mailbox: Как связаться со мной: [![VK Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/laironc)
+- Как связаться со мной: [![VK Badge](https://img.shields.io/badge/-Вконтакте-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/laironc)
 
 
 - <h3>Языки которые я использую : </h3>
