@@ -1,56 +1,27 @@
-### Привет 👋 Я, Евгений Задорожних, frontend разработчик.
+# Hi, I am Dmitry (Brookit) :computer::coffee: 
 
-### 📞 Контакты:
+:man_technologist: I'm a software engineer with a passion for backend development, particularly in Python, Java, and C#
 
-  <div>
-    <a href="https://t.me/Iommyn">
-      <img src="https://img.shields.io/badge/Telegram-gray??style=plastic&logo=telegram" alt="telegram"/>
-    </a>
-  </div>
+:tools: I've crafted numerous small-scale projects aimed at streamlining everyday tasks
 
-### 🛠️Языки и технологии:
+:books: While I primarily utilize GitHub for educational purposes, I'm also delving into the realms of data analysis and machine learning
 
-<div>
-  <img height='25px' src="https://img.shields.io/badge/React-20232A??style=plastic&logo=react&logoColor=61DAFB" alt="React.">
-  <img height='25px' src="https://img.shields.io/badge/TypeScript-20232A??style=plastic&logo=typescript&logoColor=3178C6" alt="TypeScript.">
-  <img height='25px' src="https://img.shields.io/badge/JavaScript-20232A??style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript.">
-  <img height='25px' src="https://img.shields.io/badge/Redux, Redux Toolkit-20232A??style=plastic&logo=redux&logoColor=764ABC" alt="Redux.">
-  <img height='25px' src="https://img.shields.io/badge/Next.js-20232A??style=plastic&logo=nextdotjs&logoColor=fff" alt="Nextjs.">
+:mag: My repository showcases a blend of backend development projects and explorations, reflecting my diverse interests and ongoing learning journey
 
-  <br/>
+<h3 align="center">Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,nodejs,ts,react,docker,tailwindcss,cs&perline=10" />
+  </a>
+</p>
 
-  <!-- <img height='25px' src="https://img.shields.io/badge/Effector-20232A??style=plastic" alt="Effector"> -->
-  <img height='25px' src="https://img.shields.io/badge/Material UI-20232A??style=for-the-badge&logo=MUI&logoColor=007FFF" alt="MUI.">
-  <img height='25px' src="https://img.shields.io/badge/Ant Design-20232A??style=for-the-badge&logo=Ant Design&logoColor=0170FE" alt="Ant Design.">
-  <img height='25px' src="https://img.shields.io/badge/Tailwind CSS-20232A??style=for-the-badge&logo=Tailwind CSS&logoColor=06B6D4" alt="Tailwind CSS.">
-  <img height='25px' src="https://img.shields.io/badge/styled components-20232A??style=for-the-badge&logo=styledcomponents&logoColor=DB7093" alt="styled components.">
-  <img height='25px' src="https://img.shields.io/badge/Ionic-20232A??style=for-the-badge&logo=ionic&logoColor=3880FF" alt="ionic.">
-  <img height='25px' src="https://img.shields.io/badge/Sass-20232A??style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass.">
+<h3 align="center">Statistics</h3>
 
-  <br/>
-  
-  <!-- <img height='25px' src="https://img.shields.io/badge/CSS3-20232A??style=for-the-badge&logo=css3&logoColor=1572B6" alt="СSS3">
-  <img height='25px' src="https://img.shields.io/badge/HTML5-20232A??style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"> -->
-  <img height='25px' src="https://img.shields.io/badge/Storybook-20232A??style=for-the-badge&logo=storybook&logoColor=FF4785" alt="storybook.">
-  <img height='25px' src="https://img.shields.io/badge/Figma-20232A??style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma.">
-  <img height='25px' src="https://img.shields.io/badge/Strapi-20232A??style=for-the-badge&logo=strapi&logoColor=2F2E8B" alt="Strapi.">
-  <img height='25px' src="https://img.shields.io/badge/Webpack-20232A??style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack.">
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brookite&theme=dark"/></div>
 
- <br/>
-
-  <img height='25px' src="https://img.shields.io/badge/Jest-20232A??style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest.">
-  <img height='25px' src="https://img.shields.io/badge/Express.js-20232A??style=for-the-badge&logo=express&logoColor=white" alt="Express.">
-  <img height='25px' src="https://img.shields.io/badge/Node.js-20232A??style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node JS.">
-  <img height='25px' src="https://img.shields.io/badge/MongoDB-20232A??style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB.">
-
+<div id="mystats" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brookite&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brookite&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brookite&card_width=300&theme=dark" alt="GitHub Streak" />
 </div>
 
-### 📈 Статистика:
-
- <div>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyazakharova73&layout=compact&theme=dark" />
-  </a>
-  </div>
-
-  <br/>
