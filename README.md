@@ -1,17 +1,16 @@
-# Hi, I am Dmitry (Brookit) :computer::coffee: 
+# Hi, I am Evgenii :computer::coffee: 
 
-:man_technologist: I'm a software engineer with a passion for backend development, particularly in Python, Java, and C#
+:man_technologist: I'm a frontend developer with a passion for frontend, backend development, particularly in TypeScript, NextJS, NestJS and Golang
 
 :tools: I've crafted numerous small-scale projects aimed at streamlining everyday tasks
 
-:books: While I primarily utilize GitHub for educational purposes, I'm also delving into the realms of data analysis and machine learning
 
-:mag: My repository showcases a blend of backend development projects and explorations, reflecting my diverse interests and ongoing learning journey
+:mag: My repository showcases a blend of frontend, backend development projects and explorations, reflecting my diverse interests and ongoing learning journey
 
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,nodejs,ts,react,docker,tailwindcss,cs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=,nodejs,ts,react,docker,tailwindcss,scss,webpack,vite,nestjs,nextjs&perline=10" />
   </a>
 </p>
 
