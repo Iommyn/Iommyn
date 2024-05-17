@@ -2,7 +2,7 @@
 
 :man_technologist: I'm a frontend developer with a passion for frontend, backend development, particularly in TypeScript, NextJS, NestJS and Golang
 
-:man_technologist: I've crafted numerous small-scale projects aimed at streamlining everyday tasks
+🖥️: I've crafted numerous small-scale projects aimed at streamlining everyday tasks
 
 
 :mag: My repository showcases a blend of frontend, backend development projects and explorations, reflecting my diverse interests and ongoing learning journey
