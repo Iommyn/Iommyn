@@ -16,7 +16,7 @@
 
 <h3 align="center">Statistics</h3>
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brookite&theme=dark"/></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iommyn&theme=dark"/></div>
 
 <div id="mystats" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iommyn&theme=dark"/>
